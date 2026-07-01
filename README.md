@@ -172,4 +172,3 @@ I’m currently looking to collaborate on **LastSignal**, an emergency communica
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:020024,35:0B1F3A,70:1F4E79,100:3B82F6"/>
 </p>
-```
