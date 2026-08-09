@@ -1,174 +1,227 @@
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,35:0B1F3A,70:1F4E79,100:3B82F6&text=Sakshi%20Rakhade&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Computer%20Vision%20%7C%20Space%20Technology&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Sakshi%20Rakhade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Computer%20Vision%20%7C%20Research&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-<h3 align="center">
-Building intelligent systems for Earth Observation, Remote Sensing and Space Technologies.
-</h3>
+<h1 align="center">Hi, I'm Sakshi 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2500&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+for+Satellite+Imagery;Remote+Sensing+%7C+Earth+Observation;Research+Driven+Development;Always+Learning+Something+New"/>
+  <b>AI/ML Student • Research Enthusiast • Community Builder • Stargazer</b>
 </p>
 
 <p align="center">
+  Building intelligent systems at the intersection of 
+  <b>Artificial Intelligence, Computer Vision, Research & Real-World Impact.</b>
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  •
+  <a href="YOUR_X_URL">X</a>
+</p>
+
+---
+
+## 👩🏻‍💻 About Me
+
+I am an **Artificial Intelligence & Machine Learning undergraduate** passionate about building technology that solves meaningful real-world problems.
+
+My interests span **Computer Vision, Deep Learning, Remote Sensing, Satellite Image Processing, Earth Observation, and Geospatial AI**.
+
+Beyond technical work, I enjoy **building communities, organizing technology events, participating in hackathons, and creating spaces where people can learn, collaborate, and build together.**
+
+I believe in learning by building — experimenting with ideas, turning them into working systems, and continuously improving along the way.
+
+---
+
+## 🌐 Roles & Communities
+
+- 🚀 **Vice President — TechAlfa**
+- 🌐 **GSA 2026**
+- 🎓 **Vice President — Student Representative Council (SRC)**
+- 💡 **Chapter Lead — HackWithIndia, SBJIT Chapter**
+- 🤝 **Community Builder & Tech Event Organizer**
+- 🏆 **Hackathon Participant & Project Builder**
+
+---
+
+## 🔬 Research Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Earth%20Observation-1565C0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Satellite%20Imagery-455A64?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Optical%20Flow-6A1B9A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Geospatial%20AI-00897B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-FF4081?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-3949AB?style=flat-square"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🛰️ **Satellite Temporal Interpolation** using RAFT Optical Flow
+- 🌍 Deep Learning for **Earth Observation & Remote Sensing**
+- 👁️ AI-powered **Image Analysis & Computer Vision**
+- 🤖 Exploring **Generative AI & AI Agents**
+- 💻 Building modern **Full-Stack Applications**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🔬 Exploring opportunities in **AI Research**
+
+---
+
+## 🛠️ Technology Stack
+
+### 👩🏻‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge"/>
+</p>
+
+### 🌐 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,html,css" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛰️ Satellite Temporal Interpolation
+
+**AI/ML-based satellite image interpolation system** designed to generate intermediate satellite frames from available temporal observations.
+
+**Domain:** Computer Vision • Remote Sensing • Earth Observation
+
+**Tech:** Python • PyTorch • RAFT • Optical Flow • OpenCV • Rasterio
+
+<a href="https://github.com/sakshi-exe/satellite-temporal-interpolation">
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 🏙️ CivicFix
+
+An **AI-powered civic issue reporting platform** designed to simplify reporting, tracking, and management of local civic problems.
+
+**Domain:** Civic Technology • AI • Social Impact
+
+**Tech:** JavaScript • Node.js • Express.js • MongoDB
+
+<a href="https://github.com/sakshi-exe/Civic-Fix">
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## ✈️ Safarnama
+
+An **AI-powered travel planning platform** designed to generate personalized travel experiences and intelligent itineraries.
+
+**Domain:** Generative AI • Travel Technology • Full Stack Development
+
+**Tech:** React • Node.js • Express.js • MongoDB • OpenAI API
+
 <a href="https://github.com/sakshi-exe">
-<img src="https://img.shields.io/github/followers/sakshi-exe?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sakshi-exe&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/sakshi-exe?affiliations=OWNER&style=for-the-badge"/>
-
-</p>
-
 ---
 
-# About Me
+## 🚨 LastSignal
 
-I am an **Artificial Intelligence & Machine Learning undergraduate** passionate about solving real-world problems using AI.
+An **emergency communication platform** focused on building reliable and scalable technology for critical communication scenarios.
 
-My primary interests include **Computer Vision**, **Remote Sensing**, **Satellite Image Processing**, **Earth Observation**, and **Geospatial AI**. I enjoy building intelligent systems that combine research with practical engineering.
+**Domain:** Emergency Communication • Scalable Systems • Real-World Impact
 
-Alongside AI, I develop modern full-stack applications and continuously explore emerging technologies.
-
----
-
-# Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Remote Sensing
-- Earth Observation
-- Satellite Image Processing
-- Optical Flow
-- Geospatial AI
-- Full Stack Engineering
-
----
-
-# Current Focus
-
-- Satellite Temporal Interpolation using RAFT Optical Flow
-- Deep Learning for Earth Observation
-- AI-powered Image Analysis
-- React & Next.js
-- Data Structures & Algorithms
-
----
-
-# Open Collaboration
-
-I’m currently looking to collaborate on **LastSignal**, an emergency communication platform focused on building reliable, scalable, and impactful technology. If you're interested in contributing, feel free to connect.
-
----
-
-# Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman"/>
-
-</p>
-
----
-
-# Featured Projects
-
-| Project | Domain |
-|----------|--------|
-| Satellite Temporal Interpolation | Computer Vision • Remote Sensing |
-| LastSignal | Emergency Communication Platform |
-| Safarnama | Generative AI |
-| Crema Co. | Full Stack Development |
-| Calmora | AI-powered Wellness |
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshi-exe&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-exe&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-exe&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-exe&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshi-exe&theme=github_dark"/>
-
-</p>
-
----
-
-# Connect
-
-<p align="center">
+**Focus:** Reliable communication • System Design • Real-world problem solving
 
 <a href="https://github.com/sakshi-exe">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://linkedin.com/in/sakshi-rakhade">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-
-<a href="mailto:sakshirakhade9@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-</a>
-
-<a href="https://instagram.com/ll.sakshiii.ll">
-<img src="https://skillicons.dev/icons?i=instagram" height="42"/>
-</a>
-
-</p>
 
 ---
 
-<p align="center">
-<i>"Exploring Earth through satellite imagery. Building the future with Artificial Intelligence."</i>
-</p>
+## 🧠 Calmora
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:020024,35:0B1F3A,70:1F4E79,100:3B82F6"/>
-</p>
+An AI-powered **stress-buster application** designed around personalized interactions, affirmations, and calming experiences.
+
+**Domain:** AI • Human-Centered Technology
+
+**Tech:** Python • Gradio • SQLite
+
+<a href="https://github.com/sakshi-exe">
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 💻 Crema Co.
+
+A modern **full-stack web project** focused on creating a polished digital experience using contemporary web technologies.
+
+**Domain:** Full Stack Development • UI/UX
+
+<a href="https://github.com/sakshi-exe">
+  <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 🧩 What I Love Building
+
+| Area | What I Build |
+|---|---|
+| 🤖 Artificial Intelligence | Intelligent systems & AI applications |
+| 👁️ Computer Vision | Image analysis & vision-based systems |
+| 🛰️ Remote Sensing | Satellite imagery & Earth observation |
+| 🔬 Research | Experimental & research-oriented projects |
+| 🌐 Full Stack | Modern web applications |
+| 🚀 Hackathons | Rapid prototypes solving real-world problems |
+| 🤝 Communities | Events, workshops & collaborative initiatives |
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Artificial Intelligence
+        ↓
+Deep Learning
+        ↓
+Computer Vision
+        ↓
+Generative AI
+        ↓
+AI Agents
+        ↓
+Geospatial AI
+        ↓
+Research & System Design
