@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Building intelligent systems at the intersection of 
+  Building intelligent systems at the intersection of
   <b>Artificial Intelligence, Computer Vision, Research & Real-World Impact.</b>
 </p>
 
@@ -48,19 +48,18 @@ I believe in learning by building — experimenting with ideas, turning them int
 
 ## 🔬 Research Interests
 
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-007ACC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Remote%20Sensing-2E7D32?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Earth%20Observation-1565C0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Satellite%20Imagery-455A64?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Optical%20Flow-6A1B9A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Geospatial%20AI-00897B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF4081?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-3949AB?style=flat-square"/>
-</p>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 👁️ Computer Vision
+- 🛰️ Remote Sensing
+- 🌍 Earth Observation
+- 🖼️ Satellite Image Processing
+- 🌊 Optical Flow
+- 🗺️ Geospatial AI
+- ✨ Generative AI
+- 🤝 AI Agents
+- 💻 Full-Stack AI Applications
 
 ---
 
@@ -81,7 +80,7 @@ I believe in learning by building — experimenting with ideas, turning them int
 ### 👩🏻‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,mysql" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -103,10 +102,15 @@ I believe in learning by building — experimenting with ideas, turning them int
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,html,css" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge"/>
 </p>
 
 ---
@@ -161,7 +165,7 @@ An **emergency communication platform** focused on building reliable and scalabl
 
 **Domain:** Emergency Communication • Scalable Systems • Real-World Impact
 
-**Focus:** Reliable communication • System Design • Real-world problem solving
+**Focus:** Reliable Communication • System Design • Real-World Problem Solving
 
 <a href="https://github.com/sakshi-exe">
   <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github"/>
@@ -198,7 +202,7 @@ A modern **full-stack web project** focused on creating a polished digital exper
 ## 🧩 What I Love Building
 
 | Area | What I Build |
-|---|---|
+| --- | --- |
 | 🤖 Artificial Intelligence | Intelligent systems & AI applications |
 | 👁️ Computer Vision | Image analysis & vision-based systems |
 | 🛰️ Remote Sensing | Satellite imagery & Earth observation |
@@ -226,92 +230,32 @@ Geospatial AI
         ↓
 Research & System Design
 
-# 🤝 Open Collaboration
+---
 
+🤝 Open Collaboration
 I'm always interested in collaborating on:
-
-- 🤖 AI / ML projects
-- 🔬 Research-oriented projects
-- 🛰️ Remote Sensing & Earth Observation
-- 👁️ Computer Vision
-- 🌍 Geospatial AI
-- 🚀 Hackathon ideas
-- 🌐 Open-source projects
-- 💡 Community & technology initiatives
-
-If you're building something interesting, **let's connect and build together.**
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-exe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-exe&layout=compact&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshi-exe&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-exe&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🌌 Beyond Code
-
+🤖 AI / ML projects
+🔬 Research-oriented projects
+🛰️ Remote Sensing & Earth Observation
+👁️ Computer Vision
+🌍 Geospatial AI
+🚀 Hackathon ideas
+🌐 Open-source projects
+💡 Community & technology initiatives
+If you're building something interesting, let's connect and build together.
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakshi-exe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-exe&layout=compact&hide_border=true" height="180"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=sakshi-exe&hide_border=true"/> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-exe&hide_border=true&area=true"/> </p>
+🌌 Beyond Code
 When I'm not building something with AI, you'll probably find me:
-
-- 🔭 **Stargazing**
-- 📚 **Exploring research**
-- 🎤 **Organizing tech events**
-- 🏆 **Participating in hackathons**
-- 🌱 **Learning something completely new**
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_X_URL">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>✨ Build. Research. Explore. Repeat. ✨</b>
-</p>
-
-<p align="center">
-  <i>Always curious. Always building.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-</p>
+🔭 Stargazing
+📚 Exploring research
+🎤 Organizing tech events
+🏆 Participating in hackathons
+🌱 Learning something completely new
+📫 Connect With Me
+<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="YOUR_X_URL"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <b>✨ Build. Research. Explore. Repeat. ✨</b> </p> <p align="center"> <i>Always curious. Always building.</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/> </p> ```
