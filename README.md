@@ -37,41 +37,41 @@ I believe in learning by building — experimenting with ideas, turning them int
 
 ## 🌐 Roles & Communities
 
-- 🚀 **Vice President — TechAlfa**
-- 🌐 **GSA 2026**
-- 🎓 **Vice President — Student Representative Council (SRC)**
-- 💡 **Chapter Lead — HackWithIndia, SBJIT Chapter**
-- 🤝 **Community Builder & Tech Event Organizer**
-- 🏆 **Hackathon Participant & Project Builder**
+-  **Vice President — TechAlfa India**
+-  **GSA 2026**
+-  **Vice President — Student Representative Council (SRC)**
+-  **Chapter Lead — HackWithIndia, SBJIT Chapter**
+-  **Community Builder & Tech Event Organizer**
+-  **Hackathon Participant & Project Builder**
 
 ---
 
 ## 🔬 Research Interests
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 👁️ Computer Vision
-- 🛰️ Remote Sensing
-- 🌍 Earth Observation
-- 🖼️ Satellite Image Processing
-- 🌊 Optical Flow
-- 🗺️ Geospatial AI
-- ✨ Generative AI
-- 🤝 AI Agents
-- 💻 Full-Stack AI Applications
+-  Artificial Intelligence
+-  Machine Learning
+-  Deep Learning
+-  Computer Vision
+-  Remote Sensing
+-  Earth Observation
+-  Satellite Image Processing
+-  Optical Flow
+-  Geospatial AI
+-  Generative AI
+-  AI Agents
+-  Full-Stack AI Applications
 
 ---
 
 ## 🚀 Current Focus
 
-- 🛰️ **Satellite Temporal Interpolation** using RAFT Optical Flow
-- 🌍 Deep Learning for **Earth Observation & Remote Sensing**
-- 👁️ AI-powered **Image Analysis & Computer Vision**
-- 🤖 Exploring **Generative AI & AI Agents**
-- 💻 Building modern **Full-Stack Applications**
-- 🧠 Strengthening **Data Structures & Algorithms**
-- 🔬 Exploring opportunities in **AI Research**
+-  **Satellite Temporal Interpolation** using RAFT Optical Flow
+-  Deep Learning for **Earth Observation & Remote Sensing**
+-  AI-powered **Image Analysis & Computer Vision**
+-  Exploring **Generative AI & AI Agents**
+-  Building modern **Full-Stack Applications**
+-  Strengthening **Data Structures & Algorithms**
+-  Exploring opportunities in **AI Research**
 
 ---
 
@@ -203,13 +203,13 @@ A modern **full-stack web project** focused on creating a polished digital exper
 
 | Area | What I Build |
 | --- | --- |
-| 🤖 Artificial Intelligence | Intelligent systems & AI applications |
-| 👁️ Computer Vision | Image analysis & vision-based systems |
-| 🛰️ Remote Sensing | Satellite imagery & Earth observation |
-| 🔬 Research | Experimental & research-oriented projects |
-| 🌐 Full Stack | Modern web applications |
-| 🚀 Hackathons | Rapid prototypes solving real-world problems |
-| 🤝 Communities | Events, workshops & collaborative initiatives |
+|  Artificial Intelligence | Intelligent systems & AI applications |
+|  Computer Vision | Image analysis & vision-based systems |
+|  Remote Sensing | Satellite imagery & Earth observation |
+|  Research | Experimental & research-oriented projects |
+|  Full Stack | Modern web applications |
+|  Hackathons | Rapid prototypes solving real-world problems |
+|  Communities | Events, workshops & collaborative initiatives |
 
 ---
 
@@ -236,14 +236,14 @@ Research & System Design
 
 I'm always interested in collaborating on:
 
-- 🤖 AI / ML projects
-- 🔬 Research-oriented projects
-- 🛰️ Remote Sensing & Earth Observation
-- 👁️ Computer Vision
-- 🌍 Geospatial AI
-- 🚀 Hackathon ideas
-- 🌐 Open-source projects
-- 💡 Community & technology initiatives
+-  AI / ML projects
+-  Research-oriented projects
+-  Remote Sensing & Earth Observation
+-  Computer Vision
+-  Geospatial AI
+-  Hackathon ideas
+-  Open-source projects
+-  Community & technology initiatives
 
 If you're building something interesting, **let's connect and build together.**
 
@@ -320,4 +320,4 @@ When I'm not building something with AI, you'll probably find me:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%">
 </p>
----
+
