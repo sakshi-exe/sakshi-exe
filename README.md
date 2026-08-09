@@ -232,30 +232,92 @@ Research & System Design
 
 ---
 
-🤝 Open Collaboration
+## 🤝 Open Collaboration
+
 I'm always interested in collaborating on:
-🤖 AI / ML projects
-🔬 Research-oriented projects
-🛰️ Remote Sensing & Earth Observation
-👁️ Computer Vision
-🌍 Geospatial AI
-🚀 Hackathon ideas
-🌐 Open-source projects
-💡 Community & technology initiatives
-If you're building something interesting, let's connect and build together.
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sakshi-exe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-exe&layout=compact&hide_border=true" height="180"/> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sakshi-exe&hide_border=true"/> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-exe&hide_border=true&area=true"/> </p>
-🌌 Beyond Code
+
+- 🤖 AI / ML projects
+- 🔬 Research-oriented projects
+- 🛰️ Remote Sensing & Earth Observation
+- 👁️ Computer Vision
+- 🌍 Geospatial AI
+- 🚀 Hackathon ideas
+- 🌐 Open-source projects
+- 💡 Community & technology initiatives
+
+If you're building something interesting, **let's connect and build together.**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-exe&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-exe&layout=compact&hide_border=true" height="180">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshi-exe&hide_border=true">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-exe&hide_border=true&area=true">
+</p>
+
+---
+
+## 🌌 Beyond Code
+
 When I'm not building something with AI, you'll probably find me:
-🔭 Stargazing
-📚 Exploring research
-🎤 Organizing tech events
-🏆 Participating in hackathons
-🌱 Learning something completely new
-📫 Connect With Me
-<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="YOUR_X_URL"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<p align="center"> <b>✨ Build. Research. Explore. Repeat. ✨</b> </p> <p align="center"> <i>Always curious. Always building.</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/> </p> ```
+
+- 🔭 **Stargazing**
+- 📚 **Exploring research**
+- 🎤 **Organizing tech events**
+- 🏆 **Participating in hackathons**
+- 🌱 **Learning something completely new**
+
+---
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sakshi-rakhade-9081a332a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://portfolio-u9te.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://x.com/rakhade_sakshi">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="mailto:sakshirakhade9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Build. Research. Explore. Repeat. ✨</b>
+</p>
+
+<p align="center">
+  <i>Always curious. Always building.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%">
+</p>
+---
