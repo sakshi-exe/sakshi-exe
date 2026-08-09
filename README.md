@@ -229,7 +229,7 @@ AI Agents
 Geospatial AI
         ↓
 Research & System Design
-
+```
 ---
 
 ## 🤝 Open Collaboration
